@@ -3,8 +3,8 @@
 }
 
 .logo {
-  width: 30%;
-  height: 20%;
+ width: 3em;
+  height:3em;
   border-radius: 50%;
 }
 
@@ -25,19 +25,42 @@
 }
 
 .navbar {
-  background-color: #087391;
+  background-color: #0a2e9291;
   font-family:'Oswald', sans-serif;
+}
+.nav-link {
+  color: #f1fbfd;
 }
 p,h2{
   font-family: 'Oswald', sans-serif;
   font-family: 'Roboto', sans-serif;
 }
+/*
 main{
 background-color: #d0dde9e5;
-}
+}*/
 footer{
-  background-color: #322e2ef0;
-  color: #add3dd;
+  background-color: #e262c984;
+  color: #f1fbfd;
   list-style-type:none;
   }
+  .form-control{
+    resize: none;
+  }
+  .instagram{
+    fill: #cd1010;
+  }
+  .whatsapp{
+    fill: #0fa20f;
+  }
+  .facebook{
+    fill: #2c60c0;
+  }
+.btn-confirm {
+  background-color: #34af34;
+
+}
+.list-footer{
+  color: #f1fbfd;
+}
 /*# sourceMappingURL=mycss.css.map */
