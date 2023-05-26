@@ -1,0 +1,11 @@
+$header-color: #087391;
+$picture-height:20%;
+$picture-width:50%;
+.navbar {
+background-color: $header-color;
+}
+.logo{
+    width: $picture-width - 20;
+    height: $picture-height ;
+    border-radius: 50%;
+}

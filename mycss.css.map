@@ -1,1 +1,1 @@
-{"version":3,"sources":[],"names":[],"mappings":"","file":"mycss.css"}
+{"version":3,"sources":["mycss.scss","mycss.css"],"names":[],"mappings":"AAGA;EACA,yBAJe;ACEf;;ADIA;EACI,UAAA;EACA,WAPY;EAQZ,kBAAA;ACDJ","file":"mycss.css"}

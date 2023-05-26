@@ -1,1 +1,9 @@
-/*# sourceMappingURL=mycss.css.map */
+.navbar {
+  background-color: #087391;
+}
+
+.logo {
+  width: 30%;
+  height: 20%;
+  border-radius: 50%;
+}/*# sourceMappingURL=mycss.css.map */
