@@ -1,9 +1,43 @@
-.navbar {
-  background-color: #087391;
+.first-page {
+  background-image: url("background-main.jpg");
 }
 
 .logo {
   width: 30%;
   height: 20%;
   border-radius: 50%;
-}/*# sourceMappingURL=mycss.css.map */
+}
+
+.main-title {
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+
+.body-text {
+  margin: 2%;
+  display: flex;
+}
+
+.img-fluid {
+ width: min-content;
+  border-radius: 1%;
+  height: 80vh;
+}
+
+.navbar {
+  background-color: #087391;
+  font-family:'Oswald', sans-serif;
+}
+p,h2{
+  font-family: 'Oswald', sans-serif;
+  font-family: 'Roboto', sans-serif;
+}
+main{
+background-color: #d0dde9e5;
+}
+footer{
+  background-color: #322e2ef0;
+  color: #add3dd;
+  list-style-type:none;
+  }
+/*# sourceMappingURL=mycss.css.map */

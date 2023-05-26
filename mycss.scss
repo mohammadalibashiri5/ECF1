@@ -1,11 +1,27 @@
 $header-color: #087391;
 $picture-height:20%;
 $picture-width:50%;
-.navbar {
-background-color: $header-color;
+$margin-top:2%;
+$margin-right:2%;
+$margin-down:2%;
+$margin-left:2%;
+.first-page {
+background-image: url('background-main.jpg');
 }
 .logo{
     width: $picture-width - 20;
     height: $picture-height ;
     border-radius: 50%;
 }
+.main-title {
+margin-top: $margin-top;
+margin-bottom: $margin-down;
+
+}
+.body-text{
+    margin: 2%;
+    display: flex;
+}
+.navbar {
+    background-color: #087391;
+}                            
