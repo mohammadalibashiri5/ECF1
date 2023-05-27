@@ -36,10 +36,6 @@ p,h2{
   font-family: 'Oswald', sans-serif;
   font-family: 'Roboto', sans-serif;
 }
-/*
-main{
-background-color: #d0dde9e5;
-}*/
 footer{
   background-color: #e262c984;
   color: #f1fbfd;
@@ -67,5 +63,10 @@ footer{
 .main-header{
   font-family: 'Roboto', sans-serif;
   font-weight: bold;
+  margin:2% 2% 1% 2%
+}
+.card{
+  width: 20em;
+  margin-top: 2%;
 }
 /*# sourceMappingURL=mycss.css.map */
