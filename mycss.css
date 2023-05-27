@@ -1,22 +1,8 @@
-.first-page {
-  background-image: url("background-main.jpg");
-}
-
 .logo {
  width: 30%;
   height: 30%;
   border-radius: 50%;
   margin: auto;
-}
-
-.main-title {
-  margin-top: 2%;
-  margin-bottom: 2%;
-}
-
-.body-text {
-  margin: 2%;
-  display: flex;
 }
 
 .img-fluid {
@@ -36,8 +22,8 @@
 footer{
   background-color: #e262c984;
   color: #f1fbfd;
-  list-style-type:none;
   }
+
   .form-control{
     resize: none;
   }
@@ -50,6 +36,7 @@ footer{
   .facebook{
     fill: #2c60c0;
   }
+  
 .btn-confirm {
   background-color: #b2bfb2;
 
