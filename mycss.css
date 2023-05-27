@@ -22,7 +22,7 @@
 .img-fluid {
  width: min-content;
   border-radius: 1%;
-  height: 80vh;
+  height: auto;
 }
 
 .navbar {
@@ -32,10 +32,7 @@
 .nav-link {
   color: #f1fbfd;
 }
-p,h2{
-  font-family: 'Oswald', sans-serif;
-  font-family: 'Roboto', sans-serif;
-}
+
 footer{
   background-color: #e262c984;
   color: #f1fbfd;
@@ -68,5 +65,9 @@ footer{
 .card{
   width: 20em;
   margin-top: 2%;
+}
+.main-paragraph{
+  font-family: 'Roboto', sans-serif;
+  text-align: justify;
 }
 /*# sourceMappingURL=mycss.css.map */
